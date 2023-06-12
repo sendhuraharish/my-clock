@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 
 const Clock = () => {
-  const [time, setTime] = useState(new Date());
+  const  [time, setTime] = useState(new Date());
   const [backgroundColor, setBackgroundColor] = useState('red');
   const [previousColor, setPreviousColor] = useState('');
 
