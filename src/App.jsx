@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <Popup />
       <div className="Essay">
-        <h2>The Importance of Lifelong Learning</h2>
+        <h2>Lifelong Learning</h2>
 
         <h3>Introduction:</h3>
         <p>
